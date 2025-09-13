@@ -6,9 +6,11 @@ public class Class1 {
 		
 		String a = "Hello World";
 		
-		System.out.println(a);
+		
 		
 		String b = "Project added in git finally";
+		
+		System.out.println(a);
 		System.out.println(b);
 		
 
